@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fa24-i535-bkonjeti-sales",
+  "private_key_id": "92102e78ffc55c9d6920bc1fb2ab5a1627805eea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0P0vrk5cJtEnA\nwuUu//EKqcL6uZm/vl6+W20RGgrdrgApPBSvwRXqM6dgUhTcoSDBfNZWsoOGiwiL\nZs7PIp8coWIv1Uzz4WjpFfy57FguWiDIcfY/VwX1lGBNUXF71n5X9cvMnf6AKKZB\n8+nif8E72JNGcEPwju3qLu1QWzFO8fK/FNRdp5lnEQIvw8ugsOowsPzXdXthIonP\nj5t36Q04jp4C4DPD0a0P+deaa5LvOpofX8Xp5HcrOKDsq0l4RutSc8IhUmPON7j2\nJJTr5w4HNJ/u6Gw3VN42B/WZLWAsUoDBUz/9hn/H01WT57QfTqiNH48m7xC1EI9O\n2n5HPlxlAgMBAAECggEAEfRpK2EDD1ooa51uZ3liySlibQfOdzFvLh6c1XKG6RCj\nXvgnZl+BP5hgIKHkhpq9UNDO6Al1vRH96qb1zF/aQieYSIQCm5uVT/ya9WlD2nAr\nalQhz6rrQsyCMEl/2LJj2P64y5vkZV9HOnQh1OhddwjqmL5noh+WtvhwNswys/aO\nlqJRA1MJ1Q2ukqM3XOBzNUaUYFYJnXfBDIX8Wvj3Fpp8/4OOcx92xEekKt6VhaaB\n3RbWpYJUwCMB1qJjIXHoAXCprgOOfZvtNX+z/EX8yPQs/m3XtgHjQXuqngt9q3HS\nMDv+/79iunaPK6Pj8gcAS1BQRL6RLpAf3caXXMbnsQKBgQDjVmzugdtk6hlgUSjx\nqNBBOT7E35i7v8zepi/q7DJ87b9qIQCCSXxQrfdzg4qKK6TiToOZeEd4T5b/pq/5\nxU5n1HNr6VV2P2Pw3Rqum5PDhWvS+SgtmF5sossNb+1bbP1E+7oFkVo4mK49YV0b\nQ0W3mhFKGB57+NNAeZIU8pFHNQKBgQDK+PpC8pG9h0AscKCOnVReMiX4cc1b4QEG\nLTmoGMOIBm+7U/mih7z/nLTvar0POaNTJjYrtGfcJRRIjjcVPMIWFzRcCPsEHoLj\n0LsthJHL0WuNJQKtgUOMS30iwilaqIzD7l/CrqpGMKw7La+uOYOKoxgC4bSOOHzH\nZClRqQ32cQKBgFcDMVZopYyOfX/8EGvObUdJndjErDTQSJ2/hf+ov/pJFUaNsyAq\n+EX5EAlKg7A23DkyS/RlsRU/gVAAgMJc3pGnIzZebLOBt8LtHdVO/tOLMaXib5pk\nA2AZPxa5jGO954KLxrty0tFuvuIHbheNPBX2BkAR0zkoF9NJtLwHy8sxAoGASKHo\nDGT5OjVYBY8YJXCvbDXN2KYAssxFrYwpgbm63sZO3V4jisHAJEhThwlPNk+N3odi\nAym/sMukAoLBu1vOqFENb5HXIZY5iIR9NsCl26XJMuz3lFcZcO7ijLmmSsbd+I8o\nvWX7kLqCJ3slztbN96J9SSqzjeEw5bk1//7a/EECgYAus/UalSxnCibxwoR3HU+r\nIfBoKzJn9xhS2TASBDbHMQ+KJJZ8PGTT4Lukg38qhjM0q8ACQFRlXx1FXaTkr83O\nlUmA3+L1iCBVsuNwGjGmtR6DT/YdGY5oUoLwg950swPQ1dQfxGjkmP6EWlG6Zpf7\nWGpGDGvMoa3te2BNtS7rQA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-access@fa24-i535-bkonjeti-sales.iam.gserviceaccount.com",
+  "client_id": "105382564137195782074",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-access%40fa24-i535-bkonjeti-sales.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
